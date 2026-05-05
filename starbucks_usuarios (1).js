@@ -3,7 +3,7 @@ const usuarios = [
     id: 1,
     nombre: "Daniel Piñol",
     contrasena: "pelota",
-    cumpleanos: "2005-05-6",
+    cumpleanos: "2005-05-06",
     estrellas: 0,
     bebida_favorita: "Frappuccino de caramelo"
   },
