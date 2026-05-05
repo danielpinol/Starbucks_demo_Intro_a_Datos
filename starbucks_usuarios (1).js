@@ -1,17 +1,17 @@
 const usuarios = [
   {
     id: 1,
-    nombre: "Sofía Ramírez",
-    contrasena: "sol42",
-    cumpleanos: "1999-04-29",
+    nombre: "Daniel Piñol",
+    contrasena: "pelota",
+    cumpleanos: "2005-05-6",
     estrellas: 0,
     bebida_favorita: "Frappuccino de caramelo"
   },
   {
     id: 2,
-    nombre: "Diego Morales",
-    contrasena: "luna7",
-    cumpleanos: "2000-11-15",
+    nombre: "Alexander Lopez",
+    contrasena: "avion",
+    cumpleanos: "2000-05-05",
     estrellas: 0,
     bebida_favorita: "Latte de vainilla"
   },
